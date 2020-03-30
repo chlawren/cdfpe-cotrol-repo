@@ -25,6 +25,7 @@ mod 'puppetlabs-powershell', '3.0.1'
 mod 'puppetlabs-reboot', '3.0.0'
 mod 'puppetlabs-pipelines', '1.0.1'
 mod 'puppetlabs-cd4pe_jobs', '1.0.0'
+mod 'puppet-gitlab', '4.0.1'
 
 # Modules from Git
 # Examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
